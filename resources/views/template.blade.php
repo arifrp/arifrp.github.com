@@ -85,8 +85,8 @@
 						<span class="date">2018</span>
 						<h2>IT Support (internship)</h2>
 						<span class="position">RSUD Dr. Achmad Mochtar, Bukittinggi</span>
-						<p class="mt-4">Instalasi, maintenance dan evaluasi terhadap komputer, jaringan komputer dan
-							softwate serta hardware di RSUD Dr. Achmad Mochtar, Bukittinggi</p>
+						<p class="mt-4">Instalasi, maintenance terhadap perangkat komputer, jaringan komputer,
+							softwate beserta hardware di RSUD Dr. Achmad Mochtar, Bukittinggi</p>
 					</div>
 				</div>
 
@@ -225,7 +225,7 @@
 						</div>
 					</div>
 				</div>
-                
+
 				<div class="col-md-5">
 					<div class="row">
 						<div class="col-md-12">
