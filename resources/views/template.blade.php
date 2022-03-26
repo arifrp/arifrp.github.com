@@ -35,7 +35,7 @@
 					<div class="img-about img d-flex align-items-stretch">
 						<div class="overlay"></div>
 						<div class="img d-flex align-self-stretch align-items-center"
-							style="background-image:url(admin/images/bg_1.png);">
+							style="background-image:url(admin/images/333.png);">
 						</div>
 					</div>
 				</div>
@@ -195,22 +195,12 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-md-5">
-					<div class="project img ftco-animate d-flex justify-content-center align-items-center"
-						style="background-image: url(admin/images/porto/partikel.jpg);">
-						<div class="overlay"></div>
-						<div class="text text-center p-4">
-							<h3><a href="#">Partikel</a></h3>
-							<span></span>
-						</div>
-					</div>
-				</div>
 				<div class="col-md-7">
 					<div class="project img ftco-animate d-flex justify-content-center align-items-center"
-						style="background-image: url(admin/images/porto/budiman.jpg);">
+						style="background-image: url(admin/images/porto/porto_1.png);">
 						<div class="overlay"></div>
 						<div class="text text-center p-4">
-							<h3><a href="http://budimanswalayan.com/">Budiman Swalayan</a></h3>
+							<h3><a href="#">Pembuatan Web Statis Menggunakan Bootstrap</a></h3>
 							<span></span>
 						</div>
 					</div>
@@ -218,41 +208,42 @@
 
 				<div class="col-md-7">
 					<div class="project img ftco-animate d-flex justify-content-center align-items-center"
-						style="background-image: url(admin/images/porto/codbudiman.jpg);">
+						style="background-image: url(admin/images/porto/porto_2.png);">
 						<div class="overlay"></div>
 						<div class="text text-center p-4">
-							<h3><a href="https://cod.budimanswalayan.com/">COD Budiman Swalayan</a></h3>
+							<h3><a href="#">Pembuatan Web Dinamis</a></h3>
 							<span></span>
 						</div>
 					</div>
 
 					<div class="project img ftco-animate d-flex justify-content-center align-items-center"
-						style="background-image: url(admin/images/porto/inatime.jpg);">
+						style="background-image: url(admin/images/porto/porto_3.png);">
 						<div class="overlay"></div>
 						<div class="text text-center p-4">
-							<h3><a href="#">Inatime 2020</a></h3>
+							<h3><a href="#">Pembuatan Web MenggunakanFramework CodeIgninter</a></h3>
 							<span></span>
 						</div>
 					</div>
 				</div>
+                
 				<div class="col-md-5">
 					<div class="row">
 						<div class="col-md-12">
 							<div class="project img ftco-animate d-flex justify-content-center align-items-center"
-								style="background-image: url(admin/images/porto/dsultan.jpg);">
+								style="background-image: url(admin/images/porto/porto_4.png);">
 								<div class="overlay"></div>
 								<div class="text text-center p-4">
-									<h3><a href="#">D'Sultan Bakery</a></h3>
+									<h3><a href="#">Sistem Informasi Toko Online Menggunakan Framework Yii2</a></h3>
 									<span></span>
 								</div>
 							</div>
 						</div>
 						<div class="col-md-12">
 							<div class="project img ftco-animate d-flex justify-content-center align-items-center"
-								style="background-image: url(admin/images/porto/diata.jpg);">
+								style="background-image: url(admin/images/porto/porto_5.png);">
 								<div class="overlay"></div>
 								<div class="text text-center p-4">
-									<h3><a href="http://admin.diata.id/">Diata POS</a></h3>
+									<h3><a href="#">Detail Produk Pada Sistem Informasi Toko Online</a></h3>
 									<span></span>
 								</div>
 							</div>
@@ -262,26 +253,26 @@
 
 				<div class="col-md-5">
 					<div class="project img ftco-animate d-flex justify-content-center align-items-center"
-						style="background-image: url(admin/images/porto/jualfotocopy.jpg);">
+						style="background-image: url(admin/images/porto/porto_6.png);">
 						<div class="overlay"></div>
 						<div class="text text-center p-4">
-							<h3><a href="https://jualfotocopypadang.com/">CV. Insan Mandiri</a></h3>
+							<h3><a href="#">Sistem Informasi Reservasi Hotel Menggunakan Framework Yii2</a></h3>
 							<span><a href=""></a></span>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-7">
 					<div class="project img ftco-animate d-flex justify-content-center align-items-center"
-						style="background-image: url(admin/images/porto/ayohijrah.jpg);">
+						style="background-image: url(admin/images/porto/porto_7.png);">
 						<div class="overlay"></div>
 						<div class="text text-center p-4">
-							<h3><a href="#">Ayo Hijrah</a></h3>
+							<h3><a href="#">Tampilan Ketika User Login Pada Sistem Informasi Reservasi Hotel  </a></h3>
 							<span></span>
 						</div>
 					</div>
 				</div>
 
-				<div class="col-md-7">
+				<!-- <div class="col-md-7">
 					<div class="project img ftco-animate d-flex justify-content-center align-items-center"
 						style="background-image: url(admin/images/porto/tvriaceh.jpg);">
 						<div class="overlay"></div>
@@ -298,10 +289,9 @@
 							<span></span>
 						</div>
 					</div>
+				</div> -->
 
-
-				</div>
-				<div class="col-md-5">
+                <!-- <div class="col-md-5">
 					<div class="row">
 						<div class="col-md-12">
 							<div class="project img ftco-animate d-flex justify-content-center align-items-center"
@@ -324,8 +314,9 @@
 							</div>
 						</div>
 					</div>
-				</div>
-				<div class="col-md-12">
+				</div> -->
+
+                <div class="col-md-12">
 					<div class="row justify-content-center">
 						<div class="col-md-7 ftco-animate text-center">
 							<p class="mb-0"><a href="#" class="btn btn-primary py-3 px-5">And Other Projects</a></p>
